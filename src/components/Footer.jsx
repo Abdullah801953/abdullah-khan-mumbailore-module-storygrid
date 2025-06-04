@@ -37,7 +37,6 @@ const Footer = () => {
 
                 {/* Newsletter Placeholder */}
                 <div>
-                    <h3 className="font-semibold mb-2">Newsletter Signup</h3>
                     <Newsletter/>
                 </div>
             </div>

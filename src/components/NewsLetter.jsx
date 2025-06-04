@@ -4,7 +4,7 @@ const Newsletter = () => {
     
     return (
         <div>
-            <h3 className="font-semibold mb-2">Newsletter Signup</h3>
+            <h3 className="font-semibold mb-2">Newsletter</h3>
             <p className="text-sm mb-4">Stay updated with local stories and culture.</p>
             <form className="flex flex-col sm:flex-row gap-2">
                 <input

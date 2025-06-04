@@ -11,7 +11,7 @@ const StoryGridPage = () => {
   useEffect(() => {
     const fetchStories = async () => {
       try {
-        const res = await fetch('/data/storie.json'); 
+        const res = await fetch('/data/stories.json'); 
         if (!res.ok) throw new Error("Fetch failed");
         const data = await res.json();
         setStories(data);

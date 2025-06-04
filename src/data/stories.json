@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "title": "Marine Drive at Sunset",
+      "snippet": "Marine Drive, also known as the Queen’s Necklace, glows beautifully as the sun sets over the Arabian Sea.",
+      "imageUrl": "https://images.unsplash.com/photo-1666843527155-14ec5f016802?auto=format&fit=crop&w=300&h=200&q=80"
+    },
+  
+    {
+      "id": 2,
+      "title": "Hidden Villages of Bandra",
+      "snippet": "Bandra still hides Portuguese-style villages amidst its bustling streets and posh cafes.",
+      "imageUrl": "https://images.unsplash.com/photo-1701917904248-9e22d7f93510?w=300&h=200&fit=crop"
+    },
+    {
+      "id": 3,
+      "title": "Mumbai’s Jazz Era",
+      "snippet": "In the 1930s, Mumbai was the jazz capital of India with clubs like Venice and Astoria.",
+      "imageUrl": "https://images.ctfassets.net/ssn6gmzvvg61/5eltPz5xqSfYLoFQw9oQpa/c1b259f0ad8a27ec89a96d26ad4e2571/joe_pereira__volgas__new_delhi__1957_III.jpg?w=300&h=200&fit=thumb"
+    },
+    {
+      "id": 4,
+      "title": "Art in the Local Trains",
+      "snippet": "Hidden graffiti and sticker art decorate the compartments of Mumbai’s locals.",
+      "imageUrl": "https://images.unsplash.com/photo-1622597733843-4c59e4b5f101?auto=format&fit=crop&w=300&h=200"
+    },
+    {
+      "id": 5,
+      "title": "The Gateway’s Forgotten Architect",
+      "snippet": "Few know the architect of Gateway of India was Scottish architect George Wittet.",
+      "imageUrl": "https://images.unsplash.com/photo-1632312384657-68bda3b30cd1?auto=format&fit=crop&w=300&h=200"
+    },
+    {
+      "id": 6,
+      "title": "Khotachiwadi’s Living History",
+      "snippet": "This heritage village in South Mumbai preserves a Goan-Portuguese past in wooden homes.",
+      "imageUrl": "https://images.unsplash.com/photo-1713000017875-63e9078c1206?auto=format&fit=crop&w=300&h=200"
+    }
+  ]
+  

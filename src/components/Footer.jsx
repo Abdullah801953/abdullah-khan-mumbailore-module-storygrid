@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import Newsletter from './NewsLetter'
 
 const Footer = () => {
     return (
@@ -7,7 +8,7 @@ const Footer = () => {
             <div className="max-w-7xl mx-auto px-4 py-20 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
                 {/* About */}
                 <div>
-                    <h3 className="font-semibold mb-2">About <a href="/" className="text-lg font-extrabold tracking-wide text-[#E91E63]">
+                    <h3 className="font-semibold mb-2">About <a href="/" className="text-xl font-extrabold tracking-wide text-[#E91E63]">
                         Mumbai<span className="text-gray-800">Lore</span>
                     </a></h3>
                     <p>Your daily dose of city stories and culture. Discover hidden gems and local legends.</p>
@@ -37,7 +38,7 @@ const Footer = () => {
                 {/* Newsletter Placeholder */}
                 <div>
                     <h3 className="font-semibold mb-2">Newsletter Signup</h3>
-                    <p>news letter for module 4</p>
+                    <Newsletter/>
                 </div>
             </div>
         </footer>
